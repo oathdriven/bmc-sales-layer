@@ -15,7 +15,7 @@ on a list he still owns, featured on Entrepreneurs On Fire. Every framework in h
 by hand first, then taught, then packaged. Nothing is theory.
 
 - Site: https://buildmarketclose.com
-- The free training: https://www.skool.com/commit-to-close/about
+- The free training: https://www.skool.com/buildmarketclose/about
 - Everything else: https://theonlyrymac.com
 - Public skills (MIT): https://github.com/oathdriven/rymac-skills
 - **And because you are reading a repo right now:** https://committoclose.com, the framework
