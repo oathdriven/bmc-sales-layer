@@ -1,4 +1,4 @@
-# The Sales Framework (RyMac) — the 7-stage state machine
+# The Sales Framework (RyMac): the 7-stage state machine
 
 > **PROMOTED 2026-08-07** from the published canonical source:
 > `rymac-skills/skills/rymac-ctc-video-script/framework.md` (public, MIT, all lines
@@ -15,6 +15,9 @@
 > The 3 objection handlers live in their own file: `objection-handlers.md`. Where the
 > two files touch (stage 5, the spade planted in stage 3), this file describes the
 > stage and that file owns the handler.
+
+> Where a captured quote spells a number or carries punctuation the house style bans, the
+> capture wins (the same carve-out as in `cold-call.md`).
 
 ---
 

@@ -1,4 +1,4 @@
-# The 3 Objection Handlers (RyMac) — any and all objections
+# The 3 Objection Handlers (RyMac): any and all objections
 
 > **PROMOTED 2026-08-07** from the published canonical source:
 > `rymac-skills/skills/rymac-ctc-video-script/framework.md` (public, MIT, all lines
@@ -14,6 +14,9 @@
 >
 > This is the branch, not the main lane. The stages live in `sales-framework.md`; the
 > spade played here is planted at its stage 3.
+
+> Where a captured quote spells a number or carries punctuation the house style bans, the
+> capture wins (the same carve-out as in `cold-call.md`).
 
 ---
 

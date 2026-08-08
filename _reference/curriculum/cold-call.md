@@ -16,7 +16,7 @@
 
 ---
 
-## 0. The one rule everything hangs on
+## 0. The 1 rule everything hangs on
 
 > **The job is to close on a future appointment, not to close on a deal.**
 
@@ -82,7 +82,7 @@ business, use it:
 > [saw you] released a new product line, love your stuff! The reason I called is
 > [boom]"*
 
-### The two fixed parts
+### The 2 fixed parts
 
 1. **Always say "the reason that I called is:"** then state your reason.
 2. **Then ask if it's worth discussing further.**

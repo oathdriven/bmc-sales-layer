@@ -19,9 +19,12 @@ New here? Read `START-HERE.md` first. This file is the map. `CONTEXT.md` is the 
 1. **Stage folders are named for the customer's artifact, not the verb.**
    `01_offer` = BUILD. `02_gameplan` = MARKET. `03_reps` = CLOSE. A folder named for a verb
    invites 2 different products to claim it.
-2. **No price appears anywhere in this workspace.** The live workspace keeps every price in
-   1 file, and that file is not in this copy. A price found anywhere else is drift, not a
-   decision.
+2. **No BMC product price appears anywhere in this workspace.** The live workspace keeps
+   every product price in 1 private file, and that file is not in this copy. Disclosed
+   exception, same pattern as the verbatim-capture carve-out in `cold-call.md`: the
+   teaching dollars (worked examples from real closes, career receipts, and unit costs)
+   are PROOF, not product prices, and each appears with its source named. A BMC product
+   price found anywhere in this copy is drift, not a decision.
 3. **Status is never typed twice.** An absent `output/` folder IS the status "not started."
    Do not scaffold empty folders to look busy.
 4. **Never invent a number, never invent proof.** Every figure traces to a source or carries

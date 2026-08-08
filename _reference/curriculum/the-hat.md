@@ -10,6 +10,9 @@
 > note: the source lesson said "19 years"; that figure is retired in
 > `_config/constraints.md` (it is 25), so no year-count appears here.
 
+> Where a captured quote spells a number or carries punctuation the house style bans, the
+> capture wins (the same carve-out as in `cold-call.md`).
+
 ---
 
 ## The 2 identities
@@ -23,7 +26,7 @@ them. Holds the standard on both sides of the call.
 **The hat** is the closer standard, treated as something you put on deliberately
 before a call. Not a personality. Not a voice. Not confidence.
 
-And the third identity, the one this file exists to prevent: **a manipulator** is
+And the 3rd identity, the one this file exists to prevent: **a manipulator** is
 somebody running the same skills with the money pointed the other way. Same framework,
 opposite intent.
 
